@@ -14,7 +14,7 @@ public class StringPermutation {
 	public static String output = "";
 
 	public static void main(String[] args) {
-		String s = "AABC";
+		String s = "saurabh";
 		// create a map of characters and their count in string
 		Map<Character, Integer> cMap = new HashMap<>();
 		for (int i = 0; i < s.length(); i++) {
